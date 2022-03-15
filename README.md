@@ -1,4 +1,4 @@
-# IHC
+# PROJETO IHC
 Alunos:
 Gabriel Costa Rezende;
 Joâo Gabriel Souza de Santana;
