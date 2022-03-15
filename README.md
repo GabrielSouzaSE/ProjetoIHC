@@ -1,7 +1,7 @@
 # PROJETO IHC
 Alunos:
 Gabriel Costa Rezende;
-Joâo Gabriel Souza de Santana;
+João Gabriel Souza de Santana;
 Diego Alessandro Batista Santos;
 Enzo Mury Figueiredo Sobral;
 Luis Felipe Monteiro Moreno.
